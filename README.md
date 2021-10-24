@@ -32,7 +32,7 @@ The hook does not return any value, it just sits the in the code.
 function useClickAwayListener(
 	observedElement: Element | null | undefined,
 	callBack: (event: MouseEvent) => void,
-	excludedElements: (Element | null | undefined)[],
+	excludedElements?: (Element | null | undefined)[],
 ): void;
 ```
 
