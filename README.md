@@ -1,8 +1,8 @@
 # React Click Away Utilities
 
-![npm](https://img.shields.io/npm/dt/react-clickawaylistener?style=for-the-badge)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-clickawaylistener?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/donnikitos/react-clickawaylistener?style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/@donnikitos/react-clickaway?style=for-the-badge)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/@donnikitos/react-clickaway?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/donnikitos/react-clickAway?style=for-the-badge)
 </br>
 </br>
 
@@ -15,10 +15,10 @@ Install with [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/):
 
 ```bash
 # via npm
-npm install react-clickawaylistener
+npm install @donnikitos/react-clickaway
 
 # via yarn
-yarn add react-clickawaylistener
+yarn add @donnikitos/react-clickaway
 ```
 
 ## Usage

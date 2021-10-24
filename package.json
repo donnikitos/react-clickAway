@@ -1,5 +1,5 @@
 {
-	"name": "react-clickaway",
+	"name": "@donnikitos/react-clickaway",
 	"version": "1.0.0",
 	"description": "ReactJS utilities to to listen for click-away-events",
 	"main": "index.js",
@@ -21,6 +21,7 @@
 		"clickAway",
 		"listener",
 		"event",
+		"click-away-event",
 		"onClickAway",
 		"hook",
 		"HOC",
